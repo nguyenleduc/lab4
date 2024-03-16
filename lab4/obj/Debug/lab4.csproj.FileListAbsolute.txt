@@ -1,0 +1,10 @@
+D:\LẬP TRÌNH WINDOW\lab4\lab4\bin\Debug\lab4.exe.config
+D:\LẬP TRÌNH WINDOW\lab4\lab4\bin\Debug\lab4.exe
+D:\LẬP TRÌNH WINDOW\lab4\lab4\bin\Debug\lab4.pdb
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.fMain.resources
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.exe
+D:\LẬP TRÌNH WINDOW\lab4\lab4\obj\Debug\lab4.pdb
